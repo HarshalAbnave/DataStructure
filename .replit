@@ -1,2 +1,2 @@
 language = "bash"
-run = "node Array.js"
+run = "node Hashtable.js"
