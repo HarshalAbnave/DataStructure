@@ -1,2 +1,2 @@
 language = "bash"
-run = "node Set.js"
+run = "node Map.js"
