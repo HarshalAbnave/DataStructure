@@ -51,4 +51,4 @@ let ll = new LinkedList();
 ll.insert(2);
 ll.insert(6);
 ll.insertBetween(8, 1);
-console.log(ll);
+console.log(ll); 
